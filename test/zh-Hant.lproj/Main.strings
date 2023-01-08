@@ -1,0 +1,114 @@
+
+/* Class = "UIButton"; configuration.title = "風格轉換"; ObjectID = "0Vd-yd-tRR"; */
+"0Vd-yd-tRR.configuration.title" = "風格轉換";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Vd-yd-tRR"; */
+"0Vd-yd-tRR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "風格轉換"; ObjectID = "2X4-gA-XBj"; */
+"2X4-gA-XBj.text" = "風格轉換";
+
+/* Class = "UIButton"; configuration.title = "前往餐桌"; ObjectID = "2Z0-hZ-3Q0"; */
+"2Z0-hZ-3Q0.configuration.title" = "前往餐桌";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Z0-hZ-3Q0"; */
+"2Z0-hZ-3Q0.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "開啟相簿"; ObjectID = "2uJ-2U-q6a"; */
+"2uJ-2U-q6a.configuration.title" = "開啟相簿";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2uJ-2U-q6a"; */
+"2uJ-2U-q6a.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "____________________________________"; ObjectID = "7gD-pa-wnt"; */
+"7gD-pa-wnt.text" = "____________________________________";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AoK-tF-hqd"; */
+"AoK-tF-hqd.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "首頁"; ObjectID = "DvM-3g-rok"; */
+"DvM-3g-rok.text" = "首頁";
+
+/* Class = "UILabel"; text = "家傳菜餐桌"; ObjectID = "O5q-Wa-ULu"; */
+"O5q-Wa-ULu.text" = "家傳菜餐桌";
+
+/* Class = "UIButton"; configuration.title = "上傳圖片"; ObjectID = "PCM-vY-ZWQ"; */
+"PCM-vY-ZWQ.configuration.title" = "上傳圖片";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PCM-vY-ZWQ"; */
+"PCM-vY-ZWQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "參考菜單"; ObjectID = "T32-H1-FGG"; */
+"T32-H1-FGG.configuration.title" = "參考菜單";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T32-H1-FGG"; */
+"T32-H1-FGG.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "家傳菜餐桌"; ObjectID = "TLb-wt-mGG"; */
+"TLb-wt-mGG.configuration.title" = "家傳菜餐桌";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TLb-wt-mGG"; */
+"TLb-wt-mGG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "____________________________________"; ObjectID = "UcV-Bc-6XF"; */
+"UcV-Bc-6XF.text" = "____________________________________";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xs7-3F-AO4"; */
+"Xs7-3F-AO4.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "照相"; ObjectID = "Y2B-eg-Vzd"; */
+"Y2B-eg-Vzd.configuration.title" = "照相";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Y2B-eg-Vzd"; */
+"Y2B-eg-Vzd.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "____________________________________"; ObjectID = "awn-ww-JIm"; */
+"awn-ww-JIm.text" = "____________________________________";
+
+/* Class = "UIButton"; configuration.title = "照相"; ObjectID = "bIF-xh-XPf"; */
+"bIF-xh-XPf.configuration.title" = "照相";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bIF-xh-XPf"; */
+"bIF-xh-XPf.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "開啟相簿"; ObjectID = "bNx-kF-6ib"; */
+"bNx-kF-6ib.configuration.title" = "開啟相簿";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bNx-kF-6ib"; */
+"bNx-kF-6ib.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "開啟相機"; ObjectID = "eHw-Mo-N0N"; */
+"eHw-Mo-N0N.configuration.title" = "開啟相機";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eHw-Mo-N0N"; */
+"eHw-Mo-N0N.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eh5-Vq-eio"; */
+"eh5-Vq-eio.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "風格轉換"; ObjectID = "gfo-Mv-1j0"; */
+"gfo-Mv-1j0.text" = "風格轉換";
+
+/* Class = "UILabel"; text = "____________________________________"; ObjectID = "ni4-QB-NuQ"; */
+"ni4-QB-NuQ.text" = "____________________________________";
+
+/* Class = "UILabel"; text = "家傳菜餐桌"; ObjectID = "paC-sf-PkJ"; */
+"paC-sf-PkJ.text" = "家傳菜餐桌";
+
+/* Class = "UILabel"; text = "____________________________________"; ObjectID = "sZe-bA-BfH"; */
+"sZe-bA-BfH.text" = "____________________________________";
+
+/* Class = "UIButton"; configuration.title = "開啟相機"; ObjectID = "tzn-yD-c1h"; */
+"tzn-yD-c1h.configuration.title" = "開啟相機";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tzn-yD-c1h"; */
+"tzn-yD-c1h.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uNB-Zp-acq"; */
+"uNB-Zp-acq.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "鹽埕街景"; ObjectID = "uec-Gv-iy8"; */
+"uec-Gv-iy8.configuration.title" = "鹽埕街景";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uec-Gv-iy8"; */
+"uec-Gv-iy8.normalTitle" = "Button";

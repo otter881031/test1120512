@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "72789673d79dae0c3bbc7d197b0151312b3faa92900537fb9b78356175070c12"
+    }
+  ],
+  "containerPath" : "/Users/qilingjiu/Downloads/otter test/test/test.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/qilingjiu/Downloads/otter test/test/DerivedData/test/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/qilingjiu/Downloads/otter test/test/DerivedData/test/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/qilingjiu/Downloads/otter test/test/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/qilingjiu/Downloads/otter test/test/DerivedData/test/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/qilingjiu/Downloads/otter test/test/DerivedData/test/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/qilingjiu/Downloads/otter test/test/DerivedData/test/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/qilingjiu/Downloads/otter test/test/DerivedData/test/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
